@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49926" started-at="2018-09-19T05:11:50Z" finished-at="2018-09-19T05:12:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49926" started-at="2018-09-19T05:11:50Z" finished-at="2018-09-19T05:12:40Z">
+      <class name="com.qa.tests.Assignment3Test">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="setUp" is-config="true" duration-ms="6570" started-at="2018-09-19T10:41:50Z" finished-at="2018-09-19T10:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="keywordIdentifier()[pri:1, instance:com.qa.tests.Assignment3Test@14b0e127]" name="keywordIdentifier" duration-ms="11943" started-at="2018-09-19T10:41:57Z" finished-at="2018-09-19T10:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keywordIdentifier -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="tearDown" is-config="true" duration-ms="136" started-at="2018-09-19T10:42:09Z" finished-at="2018-09-19T10:42:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="setUp" is-config="true" duration-ms="2841" started-at="2018-09-19T10:42:09Z" finished-at="2018-09-19T10:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sentimentAnalyzer()[pri:2, instance:com.qa.tests.Assignment3Test@14b0e127]" name="sentimentAnalyzer" duration-ms="9592" started-at="2018-09-19T10:42:12Z" finished-at="2018-09-19T10:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sentimentAnalyzer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="tearDown" is-config="true" duration-ms="124" started-at="2018-09-19T10:42:22Z" finished-at="2018-09-19T10:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="setUp" is-config="true" duration-ms="2301" started-at="2018-09-19T10:42:22Z" finished-at="2018-09-19T10:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="summaryAnalyzer()[pri:3, instance:com.qa.tests.Assignment3Test@14b0e127]" name="summaryAnalyzer" duration-ms="16196" started-at="2018-09-19T10:42:24Z" finished-at="2018-09-19T10:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summaryAnalyzer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.Assignment3Test@14b0e127]" name="tearDown" is-config="true" duration-ms="117" started-at="2018-09-19T10:42:40Z" finished-at="2018-09-19T10:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.Assignment3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
